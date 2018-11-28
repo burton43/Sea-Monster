@@ -1,0 +1,7 @@
+C:\Users\burton43\Desktop\MonsterClasses\MonsterClasses\MonsterClasses\bin\Debug\MonsterClasses.exe.config
+C:\Users\burton43\Desktop\MonsterClasses\MonsterClasses\MonsterClasses\bin\Debug\MonsterClasses.exe
+C:\Users\burton43\Desktop\MonsterClasses\MonsterClasses\MonsterClasses\bin\Debug\MonsterClasses.pdb
+C:\Users\burton43\Desktop\MonsterClasses\MonsterClasses\MonsterClasses\obj\Debug\MonsterClasses.csprojResolveAssemblyReference.cache
+C:\Users\burton43\Desktop\MonsterClasses\MonsterClasses\MonsterClasses\obj\Debug\MonsterClasses.csproj.CoreCompileInputs.cache
+C:\Users\burton43\Desktop\MonsterClasses\MonsterClasses\MonsterClasses\obj\Debug\MonsterClasses.exe
+C:\Users\burton43\Desktop\MonsterClasses\MonsterClasses\MonsterClasses\obj\Debug\MonsterClasses.pdb
